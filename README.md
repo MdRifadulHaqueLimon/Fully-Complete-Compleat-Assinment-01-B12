@@ -1,28 +1,40 @@
-# Fully-Complete-Compleat-Assinment-01-B12
-# ছোট HTML & CSS প্রজেক্ট
+# 🎯 Fully-Complete-Compleat-Assignment-01-B12
 
-এই প্রজেক্টটি একটি সাধারণ ওয়েবপেজ যা শুধুমাত্র HTML এবং CSS ব্যবহার করে তৈরি করা হয়েছে। এটি শিক্ষাগত উদ্দেশ্যে বানানো হয়েছে এবং বেসিক ফ্রন্ট-এন্ড ডিজাইন শিখার জন্য সহায়ক।
+## 📄 Project Overview
 
-## 🔥 ফিচারসমূহ
+This is a small and responsive web project built entirely with **HTML5** and **CSS3**.  
+It’s designed for educational purposes and ideal for beginners who want to strengthen their front-end development skills.
 
-- 📄 সম্পূর্ণ HTML5 মার্কআপ
-- 🎨 কাস্টম CSS ডিজাইন
-- 🚀 লাইটওয়েট এবং দ্রুত লোড হয়
+---
 
-## 🛠️ টেকনোলজি
+## 🔥 Features
 
-- HTML5
-- CSS3
+- ✅ Semantic HTML5 Markup  
+- 🎨 Custom CSS Styling  
+- ⚡ Fast and Lightweight  
+- 💡 Beginner-Friendly Structure
 
-## 🌐 লাইভ লিংক
+---
 
-🔗 [প্রজেক্টটি লাইভ দেখুন](https://mdrifadulhaquelimon.github.io/Fully-Complete-Compleat-Assinment-01-B12/)
+## 🛠️ Technologies Used
 
-![প্রজেক্ট প্রিভিউ](Assets/Banner.png)
+- **HTML5**  
+- **CSS3**
 
-## ⚙️ কিভাবে রান করতে হবে
+---
 
-1. এই রিপোজিটরি ক্লোন করো:
+## 🌐 Live Preview
 
-```bash
-git clone https://github.com/MdRifadulHaqueLimon/Fully-Complete-Compleat-Assinment-01-B12.git
+🔗 [Click here to view the live site](https://mdrifadulhaquelimon.github.io/Fully-Complete-Compleat-Assinment-01-B12/)
+
+![Project Preview](Assets/Banner.png)
+
+---
+
+## ⚙️ How to Run Locally
+
+Follow these steps to run the project on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MdRifadulHaqueLimon/Fully-Complete-Compleat-Assinment-01-B12.git
