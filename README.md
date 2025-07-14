@@ -15,8 +15,10 @@
 - HTML5
 - CSS3
 
-## Live link 
- ![প্রজেক্ট প্রিভিউ](https://mdrifadulhaquelimon.github.io/Fully-Complete-Compleat-Assinment-01-B12/)
+## 🌐 লাইভ লিংক
+
+🔗 [প্রজেক্টটি লাইভ দেখুন](https://mdrifadulhaquelimon.github.io/Fully-Complete-Compleat-Assinment-01-B12/)
+
 
 ## 📸 প্রিভিউ
 
