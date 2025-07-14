@@ -29,4 +29,4 @@
 1. এই রিপোজিটরি ক্লোন করো:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/MdRifadulHaqueLimon/Fully-Complete-Compleat-Assinment-01-B12.git
